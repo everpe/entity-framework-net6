@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LjKCE5G1LbSf42TchbZb0KxUfYCVI0WGYrr1i6FZPzI=",
+  "Source": "EFcore.Api.Peliculas",
+  "BasePath": "_content/EFcore.Api.Peliculas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
